@@ -10,6 +10,10 @@ TC-Tracker is a **TC (Ticket Collector) tracking application** for mumbaikar's w
 Built with **React Native (Expo)** and powered by **Supabase** as the backend.  
 The app allows users to track and manage Ticket Collectors and help each others to not get vaught by TC, it has a mobile-friendly interface.
 
+TEST THE WEB-APP HERE:
+https://tc-tracker--1xgie7pz0v.expo.app
+
+(it only has mobile friendly interfrace)
 ---
 
 # 📱 App Overview
